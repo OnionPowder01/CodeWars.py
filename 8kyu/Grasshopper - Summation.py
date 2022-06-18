@@ -6,4 +6,7 @@ def summation(num):
         total.append(i)
     return sum(total)
     
+#Another solutin
 
+def summation(num):
+    return sum(range(1,num+1))

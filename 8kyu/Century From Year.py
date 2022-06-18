@@ -5,3 +5,8 @@ from math import
 
 def century(year):
     return ceil(year / 100)
+
+#Second Solution
+
+def century(year):
+    return (year + 99) // 100

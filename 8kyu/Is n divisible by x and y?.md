@@ -12,7 +12,8 @@ Create a function that checks if a number n is divisible by two numbers x AND y.
 
 ### Solution
 
-```def is_divisible(n,x,y):
+```python
+def is_divisible(n,x,y):
     if n % x == 0 and n % y == 0:
         return True
     else:

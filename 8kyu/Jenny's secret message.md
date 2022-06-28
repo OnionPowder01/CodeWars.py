@@ -1,4 +1,4 @@
-## Is n divisible by x and y?
+## Jenny's secret message
 
 **Definition**
 

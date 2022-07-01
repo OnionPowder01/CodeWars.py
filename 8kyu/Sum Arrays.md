@@ -15,11 +15,11 @@ Input: [-2.398]
 Output: -2.398
 ```
 
-```Assumptions:
+Assumptions:
 You can assume that you are only given numbers.
 You cannot assume the size of the array.
 You can assume that you do get an array and if the array is empty, return 0.
-```
+
 
 ### Solution
 

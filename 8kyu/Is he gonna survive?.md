@@ -15,4 +15,10 @@ def hero(bullets, dragons):
     else: 
         return False
 ```
-        
+
+### Other Solution
+
+```python
+def hero(bullets, dragons):
+    return bullets >= dragons * 2
+ ```       

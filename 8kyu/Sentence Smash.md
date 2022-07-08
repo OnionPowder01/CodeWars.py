@@ -14,6 +14,6 @@ Write a function that takes an array of words and smashes them together into a s
 
 ```python
 def smash(words):
-    return " ".join(i for i in words )
+    return " ".join(words)
 ```
         

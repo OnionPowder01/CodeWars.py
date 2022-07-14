@@ -6,6 +6,7 @@ Your task is to create the functionisDivideBy (or is_divide_by) to check if an i
 
 ```
 Examples:
+
 (-12, 2, -6)  ->  true
 (-12, 2, -5)  ->  false
 
@@ -14,6 +15,7 @@ Examples:
 
 (4, 1, 4)     ->  true
 (15, -5, 3)   ->  true
+
 ```
 
 ### Solution

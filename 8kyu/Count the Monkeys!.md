@@ -10,7 +10,7 @@ As a good parent, you will sit and count with him. Given the number (n), populat
 ```
 For example(Input --> Output):
 10 --> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
- 1 --> [1]
+1 --> [1]
 ```
 
 ### Solution

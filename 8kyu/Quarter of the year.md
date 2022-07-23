@@ -12,7 +12,7 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
 def quarter_of(month):
     if month > 9:
         return 4
-    elif month > 6 and month < 9:
+    elif month > 6:
         return 3
     elif month > 3:
         return 2
